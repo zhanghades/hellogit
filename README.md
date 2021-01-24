@@ -1,2 +1,1 @@
-# hellogit
-first create git project
+hello Git
